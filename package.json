@@ -1,0 +1,15 @@
+{
+  "name": "APITesting",
+  "version": "1.0.0",
+  "description": "REST API tests for website",
+  "main": "test.js",
+  "author": "Maxim Bityukov",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^2.0.1",
+    "mocha": "^2.4.5"
+  }
+}
